@@ -7,8 +7,8 @@ This project visualizes Stephen Curry's career shot data across nine NBA regular
 ## Files
 
 - `curry_shots.py` — fetches data from the NBA Stats API and generates the visualization
-- `curry_shot_chart.png` — the main figure used in the report
-- `curry_shot_report.pdf` — the final project report
+- `Figure_1.png` — the main figure used in the report
+- `1520 report.pdf` — the final project report
 
 ## Usage
 
